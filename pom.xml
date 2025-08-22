@@ -6,13 +6,13 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.4.4</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/>
     </parent>
     <groupId>com.itence.mryang</groupId>
-    <artifactId>twoboxing</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>twoboxing</name>
-    <description>twoboxing</description>
+    <artifactId>algorithm</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>algorithm</name>
+    <description>this CodeBase Is For Testing Algorithms</description>
     <url/>
     <licenses>
         <license/>
